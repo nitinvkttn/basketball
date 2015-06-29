@@ -15,22 +15,22 @@ Platform assembly: C:\Users\Nitin\Desktop\game\Basketball\game_Data\Managed\Asse
 Loading C:\Users\Nitin\Desktop\game\Basketball\game_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
 Platform assembly: C:\Users\Nitin\Desktop\game\Basketball\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
 Loading C:\Users\Nitin\Desktop\game\Basketball\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.060 seconds
+- Completed reload, in  0.093 seconds
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 Platform assembly: C:\Users\Nitin\Desktop\game\Basketball\game_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Nitin\Desktop\game\Basketball\game_Data\Managed\System.dll (this message is harmless)
-UnloadTime: 13.221632 ms
+UnloadTime: 12.342297 ms
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 566.
-Total: 0.837191 ms (FindLiveObjects: 0.031202 ms CreateObjectMapping: 0.016208 ms MarkObjects: 0.222467 ms  DeleteObjects: 0.006888 ms)
+Total: 1.028052 ms (FindLiveObjects: 0.041332 ms CreateObjectMapping: 0.022692 ms MarkObjects: 0.259748 ms  DeleteObjects: 0.008509 ms)
 
-UnloadTime: 0.861099 ms
+UnloadTime: 0.856237 ms
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 569.
-Total: 1.009411 ms (FindLiveObjects: 0.034443 ms CreateObjectMapping: 0.021476 ms MarkObjects: 0.410896 ms  DeleteObjects: 0.006483 ms)
+Total: 1.128142 ms (FindLiveObjects: 0.042548 ms CreateObjectMapping: 0.027960 ms MarkObjects: 0.309185 ms  DeleteObjects: 0.007699 ms)
 
